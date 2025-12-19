@@ -1,0 +1,15 @@
+# data files (never push data)
+data/*.xlsx
+data/*.csv
+
+# python
+__pycache__/
+*.pyc
+.env
+
+# node
+node_modules/
+
+# system
+.DS_Store
+
